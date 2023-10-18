@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Incorrect email or password</description>
+   <name>TC031 SignIn credenciales invalidas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>423cefc4-7448-48b0-a0cb-a8faecd5f341</testCaseGuid>
+</TestCaseEntity>

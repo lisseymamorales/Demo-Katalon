@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in - Ingreso de credenciales existentes
+2.1 Redireccionar a usuario a interfaz principal con usuario logueado
+2.2 Desplegar opcion logout en el profile</description>
+   <name>TC032-Login exitoso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cb5e9a3-0694-4761-9aac-046be12fd63a</testCaseGuid>
+</TestCaseEntity>

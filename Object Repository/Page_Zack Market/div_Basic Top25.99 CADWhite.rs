@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Basic Top25.99 CADWhite</name>
+   <tag></tag>
+   <elementGuidId>f6a29820-e55e-4f0f-97dd-6a1f0ba3fef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product_card__2fE9l.p-2.card.border-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f41d7a9-13b0-4527-8764-ecb59a664af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_card__2fE9l p-2 card border-primary</value>
+      <webElementGuid>15bd7ca7-dfaa-4ddc-8cfb-d5761b791398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Basic Top$25.99 CADWhite</value>
+      <webElementGuid>66fbd2b7-8e4a-4921-b0ff-e1fd6418eec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;row dashboard_products__1x0Sb&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 my-3 dashboard_product__3WkZL&quot;]/div[@class=&quot;product_card__2fE9l p-2 card border-primary&quot;]</value>
+      <webElementGuid>768347a2-a051-4988-a8cc-3fec8d0e1b9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>bb0cc1b4-5d6c-4673-b1ea-f57a968c7692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/following::div[4]</value>
+      <webElementGuid>db93ae6a-845c-4250-8938-519c8d9e1cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Greater Than $89'])[1]/following::div[5]</value>
+      <webElementGuid>6e8bdf0c-8017-4276-87a8-c43a7d8bd139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>6cb29351-3917-44a6-8bb6-45328ed977e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Basic Top$25.99 CADWhite' or . = 'Basic Top$25.99 CADWhite')]</value>
+      <webElementGuid>90dd4fff-805f-4f13-825f-bccbc8a97c24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ol_Add Topic</name>
+   <tag></tag>
+   <elementGuidId>fcb77b8f-8698-4770-a1e5-404b3514e733</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='527:0']/div/div[3]/div/div/div/div/div[2]/div[2]/div/div/ol</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol.orderedList</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ol</value>
+      <webElementGuid>44a98436-5fa7-4e1f-9173-6842081741ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orderedList</value>
+      <webElementGuid>659ae644-8a91-437d-b70c-95a90c0cf27d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>362:573;a</value>
+      <webElementGuid>1ca552fc-a75c-443e-8221-c913520cee3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Topic</value>
+      <webElementGuid>97cea000-08ac-496d-9a80-d402b1b39099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;527:0&quot;)/div[@class=&quot;testid__publisher-quick-action-collapser  forcePublisherQuickActionCollapser&quot;]/div[3]/div[@class=&quot;baseDefault forceChatterBasePublisher forceChatterTextPostDesktop&quot;]/div[@class=&quot;forceChatterPublisherPresentationDesktop&quot;]/div[@class=&quot;container  activeState&quot;]/div[@class=&quot;cuf-content scrollable&quot;]/div[@class=&quot;main MEDIUM&quot;]/div[@class=&quot;cuf-publisherTopics input-field&quot;]/div[@class=&quot;topicWidget forceTopicPublisherTopicsWidget&quot;]/div[@class=&quot;cuf-addTopicsContainer cuf-addTopics forceChatterPillContainer&quot;]/ol[@class=&quot;orderedList&quot;]</value>
+      <webElementGuid>fe6eef05-69c1-494d-92cc-6c7c01532624</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='527:0']/div/div[3]/div/div/div/div/div[2]/div[2]/div/div/ol</value>
+      <webElementGuid>79bbd27b-79c4-4dd2-aca2-edfe1f94fec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@Mention people and groups'])[1]/following::ol[1]</value>
+      <webElementGuid>78a092f1-5696-415b-876c-ddd59e3b312b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Emoji'])[1]/following::ol[1]</value>
+      <webElementGuid>843984d9-2887-47b8-ba43-f5024131072b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/preceding::ol[1]</value>
+      <webElementGuid>db353bd5-5d76-4674-8a0a-8a749429cabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol</value>
+      <webElementGuid>031b2583-9f23-4902-af31-5e8fe1339fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ol[(text() = 'Add Topic' or . = 'Add Topic')]</value>
+      <webElementGuid>0b4ff497-f6ad-4227-9f8b-179b24afdd9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

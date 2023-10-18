@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ripped Jeans79.99 CADDark Blue</name>
+   <tag></tag>
+   <elementGuidId>8b8530ad-5663-464a-8ed1-8f0aac8032bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d34e936-d547-4475-ab0a-6a26426116b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_card__2fE9l p-2 card border-primary</value>
+      <webElementGuid>7831447d-f317-41b6-b837-6cec81f6ebf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ripped Jeans$79.99 CADDark Blue</value>
+      <webElementGuid>d4bca523-b5a4-48e2-a5e9-b33fb2e9ee38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;row dashboard_products__1x0Sb&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 my-3 dashboard_product__3WkZL&quot;]/div[@class=&quot;product_card__2fE9l p-2 card border-primary&quot;]</value>
+      <webElementGuid>1765040a-77c8-4018-89a0-5e9a6c8232ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>189a8bfb-3140-446c-9bba-b3ffa2707b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$79.99 CAD'])[1]/following::div[2]</value>
+      <webElementGuid>ecd7fead-781c-4e4f-85b1-7d7c96355884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perl Knit Swear'])[1]/following::div[4]</value>
+      <webElementGuid>1f699c0c-ab74-4f34-badf-faa6cc385dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>ff44cd78-a698-4ba8-b917-1596ae629a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ripped Jeans$79.99 CADDark Blue' or . = 'Ripped Jeans$79.99 CADDark Blue')]</value>
+      <webElementGuid>6f3b0989-c6e2-4859-a5e5-8c1fc966c1a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

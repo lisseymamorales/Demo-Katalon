@@ -1,0 +1,13 @@
+Age_TC,Experience_TC,Income_TC,ZIPCode_TC,Family_TC,CCAvg_TC,Education_TC,Mortgage_TC,PersonalLoan_TC,SecuritiesAccount_TC,CDAccount_TC,cOnline_TC,CreditCard_TC
+1,10,1,"""ZIPCo""","""Family""","""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPC""","""Family""","""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCod""","""Family""","""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""",1,"""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""",1,"""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""","""CCAvg""",1,"""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""","""CCAvg""","""Education""",1,"""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""","""CCAvg""","""Education""","""Mortgage""",1,"""SecuritiesAccount""","""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""","""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""",1,"""CDAccount""","""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""","""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""",1,"""cOnline""","""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""","""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""",1,"""CreditCard"""
+1,10,"""Income""","""ZIPCo""","""Family""","""CCAvg""","""Education""","""Mortgage""","""PersonalLoan""","""SecuritiesAccount""","""CDAccount""","""cOnline""",1

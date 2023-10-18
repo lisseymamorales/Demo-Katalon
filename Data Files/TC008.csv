@@ -1,0 +1,9 @@
+Age_TC,Experience_TC,Income_TC,ZIPCode_TC,Family_TC,CCAvg_TC,Education_TC,Mortgage_TC,PersonalLoan_TC,SecuritiesAccount_TC,CDAccount_TC,cOnline_TC,CreditCard_TC
+1,-1,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+1,0,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+1,"""ALJS123""",Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+1,"""X-%A12""",Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+-1,10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""Q""",10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""ALJS123""",10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""X-%A12""",10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard

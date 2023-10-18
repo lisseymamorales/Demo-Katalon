@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ingresar a formulario Sign In desde interfaz de detalle del producto - botón add to bag</description>
+   <name>TC003-SignIn AddToBag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db44c9c1-e1db-4a73-989b-6a4b244b52dd</testCaseGuid>
+</TestCaseEntity>

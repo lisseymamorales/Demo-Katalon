@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up - Validación expresión regular campo Verify Password (mínimo de caracteres &lt;6)
+Validación esperada: password has to be 6-15 letter</description>
+   <name>TC018-VPass min caracteres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>193040af-8d9a-4558-8800-c0ac8dc9fded</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to Bag</name>
+   <tag></tag>
+   <elementGuidId>b86a0820-68f2-4248-8b82-cc76d9494b28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.productOverview_btn_add_to_cart__gwlSo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>09be5c75-4287-4142-a6b1-f0e3f83195ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-outlined productOverview_btn_add_to_cart__gwlSo</value>
+      <webElementGuid>49d7a2b4-f6b0-45bd-93c1-2e7bb32a1de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4e61414e-e4a6-416e-bfc9-8e315a240f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ad43574-d555-4b2c-bd8a-e26d5c102895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Bag</value>
+      <webElementGuid>92be8df6-8218-4d87-82b8-5f0d9e067ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;productOverview_outbox__1y4XD&quot;]/div[@class=&quot;productOverview_content_box__3xVH-&quot;]/div[@class=&quot;productOverview_content__1yxyz&quot;]/div[@class=&quot;productOverview_context_outbox__32Uav&quot;]/div[@class=&quot;productOverview_context__3IbU8&quot;]/div[@class=&quot;productOverview_btns__39IJj&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined productOverview_btn_add_to_cart__gwlSo&quot;]</value>
+      <webElementGuid>3c3082df-3f27-4105-9271-f02f3d302676</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f9e3a1b7-d85c-4b59-a9ad-878532619891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div/div[6]/button</value>
+      <webElementGuid>2f33c44e-941b-4418-a67b-94613d17de7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XS'])[1]/following::button[1]</value>
+      <webElementGuid>8149c47e-7194-4a18-b546-0eced8fe2627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIZES:'])[1]/following::button[2]</value>
+      <webElementGuid>c1cc9cc4-ccf2-4cbf-8e07-1912ac2b04d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[1]/preceding::button[1]</value>
+      <webElementGuid>7164fd6f-5ba2-497f-aa3c-3f7c98e9053d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>7f6892a8-ba91-401c-92d9-61f8a133c408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add to Bag' or . = 'Add to Bag')]</value>
+      <webElementGuid>dd3352dc-788b-4e97-a666-7881f034967a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

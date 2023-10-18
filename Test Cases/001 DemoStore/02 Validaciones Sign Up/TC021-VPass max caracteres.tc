@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up - Validación expresión regular campo Verify Password (máximo de caracteres >15)
+Validación esperada: password has to be 6-15 letter</description>
+   <name>TC021-VPass max caracteres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01a5a06c-840b-494a-9432-4002afbce95c</testCaseGuid>
+</TestCaseEntity>

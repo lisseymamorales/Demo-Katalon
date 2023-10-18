@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: GET- 200 - Listar Pacientes
+Description: Code response: 200
+
+Body response:
+
+[
+{
+&quot;codPatients&quot;: 1,
+&quot;firstName&quot;: &quot;Paola&quot;,
+&quot;lastName&quot;: &quot;Ruiz&quot;,
+&quot;address&quot;: &quot;Calle 10 # 5-51&quot;,
+&quot;city&quot;: &quot;Bogotá&quot;,
+&quot;country&quot;: &quot;Colombia&quot;,
+&quot;gender&quot;: &quot;F&quot;,
+&quot;telephone&quot;: &quot;5842411125&quot;
+},
+{
+&quot;codPatients&quot;: 2,
+&quot;firstName&quot;: &quot;Paola&quot;,
+&quot;lastName&quot;: &quot;Ruiz&quot;,
+&quot;address&quot;: &quot;Calle 10 # 5-51&quot;,
+&quot;city&quot;: &quot;Bogotá&quot;,
+&quot;country&quot;: &quot;Colombia&quot;,
+&quot;gender&quot;: &quot;F&quot;,
+&quot;telephone&quot;: &quot;5842411125&quot;
+}
+]</description>
+   <name>PAP-17 GET- 200 - Listar Pacientes</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <testCaseGuid>62278c59-6d78-4c08-98be-9674e01499e3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3b833918-617d-4214-9132-5c73d37be685</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/PAP013-DATA-POST</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

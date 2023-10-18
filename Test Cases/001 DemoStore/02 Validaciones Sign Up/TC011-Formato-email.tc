@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC011-Sign Up - Validación expresión regular campo email</description>
+   <name>TC011-Formato-email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>299f05c8-d2b3-47ae-b6b9-4cf15f35e42d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e08e8b69-85df-4717-b7a2-61d0b86b8d8c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TD002 - TC011</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e08e8b69-85df-4717-b7a2-61d0b86b8d8c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>41bb8fbb-3e18-476b-8c63-ed1296ddbb18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>41bb8fbb-3e18-476b-8c63-ed1296ddbb18</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

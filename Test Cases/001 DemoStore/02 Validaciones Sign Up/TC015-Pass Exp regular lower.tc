@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up - Validación expresión regular campo Password (combinación de caracteres) 
+Validación esperada:  &quot;at least one lower case&quot;</description>
+   <name>TC015-Pass Exp regular lower</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d09f5fac-6299-4c8b-95f2-47c26c613212</testCaseGuid>
+</TestCaseEntity>

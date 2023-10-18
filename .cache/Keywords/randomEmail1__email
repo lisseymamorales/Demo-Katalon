@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "1B64FA0F8B8DE1D390A54751C558FC1A",
+  "keywordClasses": [
+    {
+      "name": "randomEmail1.email",
+      "keywordMethods": [
+        {
+          "name": "randomEmail",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

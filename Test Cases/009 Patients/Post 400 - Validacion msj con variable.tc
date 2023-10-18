@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: POST -400- Validaciones
+Description: Validaciones:
+
+* Campos requeridos.
+* Formato de campos.
+
+*Code Response*:  400
+
+*Message response*:
+
+Required:
+
+{
+	&quot;status&quot;: &quot;Error&quot;,
+	&quot;errorMessage&quot;: &quot;required key [Experience] not found&quot;,
+	&quot;errorType&quot;: &quot;BAD_REQUEST&quot;
+}
+
+
+
+Formato: mensaje depende de cada campo, muestra la siguiente estructura
+
+{ 
+
+&quot;status&quot;: &quot;Error&quot;, 
+
+&quot;errorMessage&quot;: &quot;/firstName string [12] does not match pattern ^([a-zA-Z]{1,}(\\s[a-zA-Z]{1,})?(\\s[a-zA-Z]{1,})?)$&quot;, 
+
+&quot;errorType&quot;: &quot;BAD_REQUEST&quot;
+
+ }</description>
+   <name>Post 400 - Validacion msj con variable</name>
+   <tag>jira-integration</tag>
+   <comment></comment>
+   <testCaseGuid>473b0813-1602-45b6-913b-332824070f15</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25efeec2-8d37-430c-8857-e570ed00f5b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9f7e235-d451-4841-bec3-fdb321a0e746</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9150e69a-a6eb-44ac-9c39-f117f4c16100</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e42dddf-dd50-442b-ac5b-fc9e508ebcff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c24a0a64-b7bc-4acd-b1c2-754ef50ebbe6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>532b8a35-3a78-4b63-a634-666395cde2fb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26ec7779-4d98-41be-a466-52a37df55553</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>061cf37b-9c04-4c89-8327-695309abb795</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'787878'</defaultValue>
+      <description></description>
+      <id>25efeec2-8d37-430c-8857-e570ed00f5b2</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Juarez'</defaultValue>
+      <description></description>
+      <id>b9f7e235-d451-4841-bec3-fdb321a0e746</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Chacaito'</defaultValue>
+      <description></description>
+      <id>9150e69a-a6eb-44ac-9c39-f117f4c16100</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>'Caracas'</defaultValue>
+      <description></description>
+      <id>8e42dddf-dd50-442b-ac5b-fc9e508ebcff</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'Venezuela'</defaultValue>
+      <description></description>
+      <id>c24a0a64-b7bc-4acd-b1c2-754ef50ebbe6</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>'M'</defaultValue>
+      <description></description>
+      <id>532b8a35-3a78-4b63-a634-666395cde2fb</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>'0412178754'</defaultValue>
+      <description></description>
+      <id>26ec7779-4d98-41be-a466-52a37df55553</id>
+      <masked>false</masked>
+      <name>telephone</name>
+   </variable>
+   <variable>
+      <defaultValue>'does not match pattern'</defaultValue>
+      <description></description>
+      <id>061cf37b-9c04-4c89-8327-695309abb795</id>
+      <masked>false</masked>
+      <name>errorMessage</name>
+   </variable>
+</TestCaseEntity>

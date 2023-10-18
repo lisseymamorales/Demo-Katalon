@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Followers</name>
+   <tag></tag>
+   <elementGuidId>bc5648f3-7c56-4058-a415-07ab9cf1eadf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='527:0']/div/div[3]/div/div/div/div/div[3]/div/div/div/ul/li[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cuf-defaultVisibilityMessage.uiOutputText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b935beb7-04aa-4770-a7de-d1074f217b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cuf-defaultVisibilityMessage uiOutputText</value>
+      <webElementGuid>45654fe4-32bb-4703-b900-88046e9db000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>2013:0</value>
+      <webElementGuid>d49e774e-7776-4cae-b947-6019f6ba7e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>uiOutputText</value>
+      <webElementGuid>6495a49e-42d7-41ae-b5f8-d574d53691b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Followers</value>
+      <webElementGuid>357a35a7-d85c-4d31-af30-390362d88d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;527:0&quot;)/div[@class=&quot;testid__publisher-quick-action-collapser  forcePublisherQuickActionCollapser&quot;]/div[3]/div[@class=&quot;baseDefault forceChatterBasePublisher forceChatterTextPostDesktop&quot;]/div[@class=&quot;forceChatterPublisherPresentationDesktop&quot;]/div[@class=&quot;container  activeState&quot;]/div[@class=&quot;cuf-content scrollable&quot;]/div[@class=&quot;visibilitySwitcher&quot;]/div[1]/div[@class=&quot;cuf-publisherVisibility forceChatterPublisherVisibility&quot;]/div[@class=&quot;forceChatterPublisherVisibilityWrapper&quot;]/ul[@class=&quot;items&quot;]/li[@class=&quot;publisherVisibilityValue&quot;]/span[@class=&quot;cuf-defaultVisibilityMessage uiOutputText&quot;]</value>
+      <webElementGuid>3adcb338-bab3-4d5a-ae47-98cc1739b6c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='527:0']/div/div[3]/div/div/div/div/div[3]/div/div/div/ul/li[2]/span</value>
+      <webElementGuid>4357b6f7-629d-409a-ac98-ed21709fd70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/following::span[1]</value>
+      <webElementGuid>648b61d6-d4c5-427b-ba6f-ef4a6d4eedf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Topic'])[1]/following::span[2]</value>
+      <webElementGuid>657a4473-f0dc-4f63-897c-81aeca74fffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach up to 10 files'])[1]/preceding::span[1]</value>
+      <webElementGuid>ab58e151-9861-431b-bc25-0864744d455a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[2]/preceding::span[2]</value>
+      <webElementGuid>6991e13d-81cc-4858-ab18-bb225349da1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Followers']/parent::*</value>
+      <webElementGuid>4c47bc09-709f-41c5-b8df-2e005ab00ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span</value>
+      <webElementGuid>62366092-aba8-4379-b8ab-b264664aa1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Followers' or . = 'My Followers')]</value>
+      <webElementGuid>5e604c2d-40ee-4405-8f1d-1ddbbaa221fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

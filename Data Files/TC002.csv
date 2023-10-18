@@ -1,0 +1,4 @@
+Age,Experience,Income,ZIPCode,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+9,0,100.00,33130,0,0.00,Inicial,100.00,true,true,true,true,340000000000000
+100,100,999999.99,33453,99,999999.99,Superior,999999.99,false,false,false,false,370000000000000
+25,30,1000.00,10900,40,1.60,Secundaria,100.00,true,false,true,false,379000000000001

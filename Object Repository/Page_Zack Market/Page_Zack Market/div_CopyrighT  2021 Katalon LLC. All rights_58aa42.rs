@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CopyrighT  2021 Katalon LLC. All rights_58aa42</name>
+   <tag></tag>
+   <elementGuidId>e80270c8-1963-4573-8fe9-53eafef28c63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.footer_outbox__1pdRu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ab05cec-12dd-4d9e-85ab-2fc0f1b315cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer_outbox__1pdRu</value>
+      <webElementGuid>2b64aab2-6b94-4f79-b9eb-8ea6739602c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CopyrighT © 2021 Katalon LLC. All rights reserved.</value>
+      <webElementGuid>41ab7a49-4fc1-4957-9170-61053a7874c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;footer_outbox__1pdRu&quot;]</value>
+      <webElementGuid>9c6d9a22-dc02-4556-88f0-e365c4dba74c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]</value>
+      <webElementGuid>95f39ad4-7287-4af6-a7cd-dfa138d9fd66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$79.99 CAD'])[3]/following::div[1]</value>
+      <webElementGuid>afd46a90-f406-4f0c-941f-85258f58438d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belted Plaid Blazer'])[1]/following::div[3]</value>
+      <webElementGuid>4fc5c106-22cc-459c-9fac-5f194afea1f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CopyrighT © 2021 Katalon LLC. All rights reserved.']/parent::*</value>
+      <webElementGuid>b6eec5d1-a2b1-49b1-89f8-95a782acbaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>eb44fe98-bc69-4bb0-b156-0ac76e88670e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CopyrighT © 2021 Katalon LLC. All rights reserved.' or . = 'CopyrighT © 2021 Katalon LLC. All rights reserved.')]</value>
+      <webElementGuid>3e0bb998-2562-4524-929a-40edafd5556b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

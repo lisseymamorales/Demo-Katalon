@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar redirección a interfaz de detalle de producto
+2.1 Redireccionar a interfaz https://demo-store.katalon.com/product-overview/5bedf448c14d7822b39d9d47
+- Detectar presencia de elementos en interfaz de detalle:  Nombre y precio del producto
+- Detectar presencia botón add to bag, buy now</description>
+   <name>TC002-Red detalle prod</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c859cd40-cfa4-4a26-9d92-9e19a6fe0737</testCaseGuid>
+</TestCaseEntity>

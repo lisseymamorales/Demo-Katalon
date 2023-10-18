@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up - Validación expresión regular campo Verify Password (combinación de caracteres)
+Validación esperada: at least one upper caser</description>
+   <name>TC019-VPass Exp Regular upper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b20c9d2-4609-436f-8626-d297b63a8680</testCaseGuid>
+</TestCaseEntity>

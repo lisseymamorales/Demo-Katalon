@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>CinesUnidos</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lisseymamorales@gmail.com'</initValue>
+      <name>usernameC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'84zMreom2TNKj44nLOg+Yw=='</initValue>
+      <name>passwordC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.cinesunidos.com/Inicio'</initValue>
+      <name>url_login</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

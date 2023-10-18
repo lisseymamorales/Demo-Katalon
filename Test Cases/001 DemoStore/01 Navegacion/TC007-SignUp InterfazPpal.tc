@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ingresar a formulario Sign Up desde interfaz principal</description>
+   <name>TC007-SignUp InterfazPpal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e776e6d7-5928-4181-9b1d-65d5fdb92165</testCaseGuid>
+</TestCaseEntity>

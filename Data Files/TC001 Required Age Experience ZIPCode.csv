@@ -1,0 +1,9 @@
+Age,Experience,Income,ZIPCode,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""""",10,Income,"""91107""",Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+NULL,10,Income,"""91107""",Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+1,"""""",Income,"""91107""",Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+1,NULL,Income,"""91107""",Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+1,2,Income,"""""",Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+1,2,Income,NULL,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""""","""""",Income,"""""",Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+NULL,NULL,Income,NULL,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard

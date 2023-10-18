@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up  - Validación de unicidad de datos</description>
+   <name>TC023-SignUp unicidad</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac1883ba-72c4-46b6-9371-7658cbde2106</testCaseGuid>
+</TestCaseEntity>

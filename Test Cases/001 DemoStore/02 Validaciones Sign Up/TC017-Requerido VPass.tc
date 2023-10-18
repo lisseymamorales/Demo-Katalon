@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up - Validación campos requeridos - Verify Password
+Validación esperada: Required</description>
+   <name>TC017-Requerido VPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efb41e4f-2ac2-4f72-9bfe-502935411832</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up - Validación expresión regular campo Verify Password (combinación de caracteres) 
+at least one lower case</description>
+   <name>TC020-VPass Exp regular lower</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee578748-6036-4922-b5db-35af108641e1</testCaseGuid>
+</TestCaseEntity>

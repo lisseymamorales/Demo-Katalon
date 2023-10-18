@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Faux Leather Perforated Jacket99.99 CADBrown</name>
+   <tag></tag>
+   <elementGuidId>bbce6e24-9e53-4dac-aefc-e686d03759ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ed49f4d-4515-4cb2-89d8-a1dedeb82c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-6 col-sm-4 col-md-4 col-lg-3 my-3 dashboard_product__3WkZL</value>
+      <webElementGuid>0e9bfe5f-62be-4da2-983c-f24f91adef69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faux Leather Perforated Jacket$99.99 CADBrown</value>
+      <webElementGuid>125fe75e-18ba-4bbd-a2da-8c45e518433d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;row dashboard_products__1x0Sb&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 my-3 dashboard_product__3WkZL&quot;]</value>
+      <webElementGuid>88e131ca-a92a-4114-9f12-9a3271d6e790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[4]</value>
+      <webElementGuid>5e87f760-4795-41e3-824a-6e833a7a48b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$45.99 CAD'])[1]/following::div[1]</value>
+      <webElementGuid>03e5332f-fc0c-4eb1-bf09-dcae4ff8f630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Slim Jeans'])[1]/following::div[3]</value>
+      <webElementGuid>61ab8dac-7aa0-49d4-8510-c3f77b5344a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>80e92e5b-f4b4-40c0-b904-381b13216b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Faux Leather Perforated Jacket$99.99 CADBrown' or . = 'Faux Leather Perforated Jacket$99.99 CADBrown')]</value>
+      <webElementGuid>fe461092-be57-485e-89c3-69bdd16a81cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Perl Knit Swear79.99 CADOrangeRipped Je_4850a4</name>
+   <tag></tag>
+   <elementGuidId>e54c594c-ec5b-4e20-9530-87407e2abc5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.dashboard_products__1x0Sb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e594050-26da-495d-b988-633c85a4beaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row dashboard_products__1x0Sb</value>
+      <webElementGuid>9cc04d25-b753-4689-8da4-8e4ef5882851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perl Knit Swear$79.99 CADOrangeRipped Jeans$79.99 CADDark BlueBasic Slim Jeans$45.99 CADLight BlueFaux Leather Perforated Jacket$99.99 CADBrown</value>
+      <webElementGuid>2504bd19-29a5-4408-953b-8120230d07b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;row dashboard_products__1x0Sb&quot;]</value>
+      <webElementGuid>6b2d5768-268f-4beb-b204-99d1c47d2708</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      <webElementGuid>fd1b8687-42cb-43ab-b349-856dbcc462f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/following::div[1]</value>
+      <webElementGuid>3b9f0377-b681-4388-b76e-dc5cab80eeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEN'])[1]/following::div[2]</value>
+      <webElementGuid>644f9c65-8772-49c0-b341-f4a0ddb0bffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>5a785c71-e241-49ba-9b47-03b448ec3a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Perl Knit Swear$79.99 CADOrangeRipped Jeans$79.99 CADDark BlueBasic Slim Jeans$45.99 CADLight BlueFaux Leather Perforated Jacket$99.99 CADBrown' or . = 'Perl Knit Swear$79.99 CADOrangeRipped Jeans$79.99 CADDark BlueBasic Slim Jeans$45.99 CADLight BlueFaux Leather Perforated Jacket$99.99 CADBrown')]</value>
+      <webElementGuid>36e343de-69fc-4d6a-8d40-fc6b7d17257f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

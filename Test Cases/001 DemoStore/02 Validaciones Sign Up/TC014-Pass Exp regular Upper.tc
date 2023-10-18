@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC014 Sign Up - Validación expresión regular campo Password 
+combinación de caracteres
+Validación: at least one upper caser</description>
+   <name>TC014-Pass Exp regular Upper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>353a38d2-ffa6-4da4-a2fe-2d29317008ec</testCaseGuid>
+</TestCaseEntity>

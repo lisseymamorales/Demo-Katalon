@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "null"
+        },
+        "Education": {
+          "type": "null"
+        },
+        "cOnline": {
+          "type": "null"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "null"
+        },
+        "CreditCard": {
+          "type": "null"
+        },
+        "PersonalLoan": {
+          "type": "null"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "null"
+        },
+        "Mortgage": {
+          "type": "null"
+        },
+        "CDAccount": {
+          "type": "null"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "null"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    }
+  ]
+}

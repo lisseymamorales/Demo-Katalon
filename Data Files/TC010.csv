@@ -1,0 +1,8 @@
+Age_TC,Experience_TC,Income_TC,ZIPCode_TC,Family_TC,CCAvg_TC,Education_TC,Mortgage_TC,PersonalLoan_TC,SecuritiesAccount_TC,CDAccount_TC,cOnline_TC,CreditCard_TC
+1,1,ABCDEF QWERTTYY,12345,ABCDEF QWERTTYY,ABCDEF QWERTTYY,ABCDEF QWERTTYY,ABCDEF QWERTTYY,ABCDEF QWERTTYY,ABCDEF QWERTTYY,ABCDEF QWERTTYY,ABCDEF QWERTTYY,ABCDEF QWERTTYY
+10,2,123456789,QWERT,2000000,2000000,2000000,2000000,2000000,2000000,2000000,2000000,2000000
+100,3,!$%&/()=?,!QW%E,!$%&/()=?,!$%&/()=?,!$%&/()=?,!$%&/()=?,!$%&/()=?,!$%&/()=?,!$%&/()=?,!$%&/()=?,!$%&/()=?
+1000,4,QWE!$%266,.....,QWE!$%266,QWE!$%266,QWE!$%266,QWE!$%266,QWE!$%266,QWE!$%266,QWE!$%266,QWE!$%266,QWE!$%266
+10000,5,Lorem Ipsum is simply dummy text of the printing and typesetting industry,     ,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry,Lorem Ipsum is simply dummy text of the printing and typesetting industry
+1000000,6,     .,    .,     .,     .,     .,     .,     .,     .,     .,     .,     .
+2000000,20,,TEST.,,,,,,,,,

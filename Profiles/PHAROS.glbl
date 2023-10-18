@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PHAROS</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ef5d7c28c2c44f6498f6334b855d7ad8'</initValue>
+      <name>client_id_ph</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'46138Af1C3ac4467993f3e8A85f9E962'</initValue>
+      <name>client_secret_ph</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Basic c2VndXJvc19tdW5kaWFsOnBlbHVkb3M='</initValue>
+      <name>AuthenticationPH</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'application/json'</initValue>
+      <name>Content_typePH</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

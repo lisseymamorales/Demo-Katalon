@@ -1,0 +1,4 @@
+Age,Experience,Income,ZIPCode,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+10,10,"""AA12""",91107,4,1.6,1,0,0,1,0,0,12333
+10,10,"""AAA123""",91107,4,1.6,1,0,0,1,0,0,12333
+10,10,123,91107,4,1.6,1,0,0,1,0,0,12333

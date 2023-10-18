@@ -1,0 +1,5 @@
+Age,Experience,Income,ZIPCode,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+-1,10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""Q""",10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""ALJS123""",10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard
+"""X-%A12""",10,Income,ZIPCo,Family,CCAvg,Education,Mortgage,PersonalLoan,SecuritiesAccount,CDAccount,cOnline,CreditCard

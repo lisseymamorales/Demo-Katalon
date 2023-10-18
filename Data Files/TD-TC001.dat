@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>VALIDACION FORMATO TOREI DB SYS</description>
+   <name>TD-TC001</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>e0e21533-72a9-40ea-8331-c1c2565eabb3</dataFileGUID>
+   <dataSourceUrl>C:\Users\angel\Katalon Studio\db-sys-poc-product 01\Data Files\TC001.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

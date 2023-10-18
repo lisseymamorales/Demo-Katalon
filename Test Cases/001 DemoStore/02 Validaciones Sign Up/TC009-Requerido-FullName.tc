@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC009-Sign Up - Validación campo Requeridos - Full Name</description>
+   <name>TC009-Requerido-FullName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b202874b-5273-4731-b85c-8f482b8ddc59</testCaseGuid>
+</TestCaseEntity>

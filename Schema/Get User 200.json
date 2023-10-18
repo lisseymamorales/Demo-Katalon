@@ -1,0 +1,2148 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "integer"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "number"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "number"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Income": {
+          "type": "integer"
+        },
+        "Education": {
+          "type": "string"
+        },
+        "cOnline": {
+          "type": "integer"
+        },
+        "Experience": {
+          "type": "integer"
+        },
+        "SecuritiesAccount": {
+          "type": "integer"
+        },
+        "CreditCard": {
+          "type": "string"
+        },
+        "PersonalLoan": {
+          "type": "integer"
+        },
+        "ZIPCode": {
+          "type": "string"
+        },
+        "CCAvg": {
+          "type": "number"
+        },
+        "Mortgage": {
+          "type": "integer"
+        },
+        "CDAccount": {
+          "type": "integer"
+        },
+        "ID": {
+          "type": "integer"
+        },
+        "Family": {
+          "type": "integer"
+        },
+        "AGE": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Income",
+        "Education",
+        "cOnline",
+        "Experience",
+        "SecuritiesAccount",
+        "CreditCard",
+        "PersonalLoan",
+        "ZIPCode",
+        "CCAvg",
+        "Mortgage",
+        "CDAccount",
+        "ID",
+        "Family",
+        "AGE"
+      ]
+    }
+  ]
+}

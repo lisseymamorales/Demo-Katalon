@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign Up - Validación expresión regular campo Password (mínimo de caracteres &lt;6
+validacion password has to be 6-15 letter</description>
+   <name>TC013-Pass min caracteres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89967a69-64fb-4ade-b09c-53041d8b08b8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>47a79a89-87ee-4a3e-b82a-c3a5f308d332</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TD003 - TC013</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>47a79a89-87ee-4a3e-b82a-c3a5f308d332</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>fullname</value>
+      <variableId>779053db-0509-47b8-95ef-2cf78e53d402</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>47a79a89-87ee-4a3e-b82a-c3a5f308d332</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>7a74f818-da7b-409c-b237-b068f8e5bef4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>47a79a89-87ee-4a3e-b82a-c3a5f308d332</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>131a9292-40d7-4fe7-b81b-5f7bd36ee2e7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>47a79a89-87ee-4a3e-b82a-c3a5f308d332</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>verifypassword</value>
+      <variableId>68750499-ad97-47b8-b714-bd6f9b737e06</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>779053db-0509-47b8-95ef-2cf78e53d402</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a74f818-da7b-409c-b237-b068f8e5bef4</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>131a9292-40d7-4fe7-b81b-5f7bd36ee2e7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68750499-ad97-47b8-b714-bd6f9b737e06</id>
+      <masked>false</masked>
+      <name>verifypassword</name>
+   </variable>
+</TestCaseEntity>

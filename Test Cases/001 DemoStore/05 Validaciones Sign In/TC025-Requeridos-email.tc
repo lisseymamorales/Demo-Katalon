@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in - Validación campos requeridos email - email campo vacío</description>
+   <name>TC025-Requeridos-email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be20c03e-7141-4b41-8034-825ae19563ba</testCaseGuid>
+</TestCaseEntity>

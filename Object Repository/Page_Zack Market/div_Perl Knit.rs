@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Perl Knit</name>
+   <tag></tag>
+   <elementGuidId>a52d7f68-00ce-4639-9a30-b620b0c94d9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>284a5a25-59c3-4488-ab79-31fb31dc7f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_card__2fE9l p-2 card border-primary</value>
+      <webElementGuid>39a86228-4659-4fbd-b9b6-bed3c0629af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perl Knit Swear$79.99 CADOrange</value>
+      <webElementGuid>eea1a695-b973-455e-b6e7-3ec13e3be22c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;row dashboard_products__1x0Sb&quot;]/div[@class=&quot;col-6 col-sm-4 col-md-4 col-lg-3 my-3 dashboard_product__3WkZL&quot;]/div[@class=&quot;product_card__2fE9l p-2 card border-primary&quot;]</value>
+      <webElementGuid>11632aa0-03b2-4825-8e01-78fb00da7ac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>e2c03838-bafb-4d5a-8cb5-8604fee89be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$25.99 CAD'])[1]/following::div[2]</value>
+      <webElementGuid>c08244ba-c9ea-44bf-99fe-af0f055ace7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Top'])[1]/following::div[4]</value>
+      <webElementGuid>5ec6a1aa-35ad-47fa-bc80-5ec2cc08ab0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>a66d77b1-d046-41db-a345-3565eee64894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Perl Knit Swear$79.99 CADOrange' or . = 'Perl Knit Swear$79.99 CADOrange')]</value>
+      <webElementGuid>ce1aae01-d3c0-4846-8646-ff0da7d17cb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

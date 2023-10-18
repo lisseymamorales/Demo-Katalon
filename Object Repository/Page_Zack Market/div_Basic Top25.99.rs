@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Basic Top25.99</name>
+   <tag></tag>
+   <elementGuidId>62fc2996-63f9-48d0-bc99-fa9a5761e7cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.dashboard_products__1x0Sb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ec44c9c-d8af-4d58-b602-56d6b01c0ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row dashboard_products__1x0Sb</value>
+      <webElementGuid>a01fae3d-086f-47ea-bb43-1ccfe95f4c15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Basic Top$25.99 CADWhitePerl Knit Swear$79.99 CADOrangeRipped Jeans$79.99 CADDark BlueBasic Slim Jeans$45.99 CADLight BlueFaux Leather Perforated Jacket$99.99 CADBrownSWEATSHIRT WITH TEXT$16.9 CADOYSTER WHITEPADDED BOMBER$45.9 CADBLACK Oversized Textured Top$35.95 CADGrayTank Top$29.99 CADBlackBelted Plaid Blazer$79.99 CADBlack</value>
+      <webElementGuid>a9e51522-046b-465e-8c99-95d31222802a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;row dashboard_products__1x0Sb&quot;]</value>
+      <webElementGuid>1318f51a-5f7c-480c-9922-1bf51361cf3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]</value>
+      <webElementGuid>8aef77eb-0ee9-4d4c-9ff1-895d4fc282d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/following::div[2]</value>
+      <webElementGuid>4e36ed4f-d550-4946-b1dc-b4c453b8be49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Greater Than $89'])[1]/following::div[3]</value>
+      <webElementGuid>6f6b81d7-4687-47d0-8c41-7bd410ec8a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>479bdb3e-b582-4168-9b8a-ea4cf366144a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Basic Top$25.99 CADWhitePerl Knit Swear$79.99 CADOrangeRipped Jeans$79.99 CADDark BlueBasic Slim Jeans$45.99 CADLight BlueFaux Leather Perforated Jacket$99.99 CADBrownSWEATSHIRT WITH TEXT$16.9 CADOYSTER WHITEPADDED BOMBER$45.9 CADBLACK Oversized Textured Top$35.95 CADGrayTank Top$29.99 CADBlackBelted Plaid Blazer$79.99 CADBlack' or . = 'Basic Top$25.99 CADWhitePerl Knit Swear$79.99 CADOrangeRipped Jeans$79.99 CADDark BlueBasic Slim Jeans$45.99 CADLight BlueFaux Leather Perforated Jacket$99.99 CADBrownSWEATSHIRT WITH TEXT$16.9 CADOYSTER WHITEPADDED BOMBER$45.9 CADBLACK Oversized Textured Top$35.95 CADGrayTank Top$29.99 CADBlackBelted Plaid Blazer$79.99 CADBlack')]</value>
+      <webElementGuid>8da9d377-bf6b-451b-a9c5-5080b46019da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

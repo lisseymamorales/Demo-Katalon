@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in - Validación expresión regular campo password 
+&quot;at least one lower case</description>
+   <name>TC030-Pass-exp reg lower</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd446162-c9b1-45e5-a905-73c21e5912f3</testCaseGuid>
+</TestCaseEntity>

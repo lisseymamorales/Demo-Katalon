@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar elementos interfaz principal
+1. Detectar presencia de elementos de menú principal (Women, Kids, Men, All products)
+2. Detectar presencia del logo
+3. Detectar presencia de grid de resultados
+4. Detectar presencia sección Filtrado</description>
+   <name>TC001-Interfaz ppal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cacbf343-1c7f-46b7-a149-3bd5d927e5ab</testCaseGuid>
+</TestCaseEntity>

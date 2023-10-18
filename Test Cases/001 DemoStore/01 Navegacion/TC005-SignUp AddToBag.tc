@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ingresar a formulario SignUp desde navegación de interfaz de detalle del producto,
+El usuario no debe estar autenticado
+TC02
+TC04</description>
+   <name>TC005-SignUp AddToBag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55dbf81b-b0cc-4a36-a9b9-fd54d564a0b6</testCaseGuid>
+</TestCaseEntity>
